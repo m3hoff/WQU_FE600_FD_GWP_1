@@ -1,0 +1,67 @@
+EPIC,Name,Coupon,Maturity Date,Time To Maturity,Price (£),Yield (%)
+TN25,0 1/4% Treasury Gilt 2025,0.25%,31-Jan-2025,14 days,99.84,4.218
+TR25,5% Treasury Stock 2025,5%,07-Mar-2025,49 days,100.07,4.446
+TG25,0 5/8% Treasury Gilt 2025,0.625%,07-Jun-2025,141 days,98.56,4.387
+T25,2% Treasury Gilt 2025,2%,07-Sep-2025,233 days,98.46,4.471
+TY25,3 1/2% Treasury Gilt 2025,3.5%,22-Oct-2025,278 days,99.26,4.49
+T26,0 1/8% Treasury Gilt 2026,0.125%,30-Jan-2026,1 year 13 days,96.17,3.926
+TG26,1 1/2% Treasury Gilt 2026,1.5%,22-Jul-2026,1 year 186 days,96.07,4.202
+T26A,0 3/8% Treasury Gilt 2026,0.375%,22-Oct-2026,1 year 278 days,93.64,4.152
+T27A,4 1/8% Treasury Gilt 2027,4.125%,29-Jan-2027,2 years 12 days,99.55,4.358
+TS27,3 3/4% Treasury Gilt 2027,3.75%,07-Mar-2027,2 years 49 days,98.71,4.387
+TG27,1 1/4% Treasury Gilt 2027,1.25%,22-Jul-2027,2 years 186 days,93.07,4.18
+TR27,4 1/4% Treasury Gilt 2027,4.25%,07-Dec-2027,2 years 324 days,100.14,4.197
+TN28,0 1/8% Treasury Gilt 2028,0.125%,31-Jan-2028,3 years 14 days,88.78,4.086
+TE28,4 3/8% Treasury Gilt 2028,4.375%,07-Mar-2028,3 years 50 days,99.97,4.384
+TS28,4 1/2% Treasury Gilt 2028,4.5%,07-Jun-2028,3 years 142 days,100.44,4.358
+TG28,1 5/8% Treasury Gilt 2028,1.625%,22-Oct-2028,3 years 279 days,91.12,4.2
+TR28,6% Treasury Stock 2028,6%,07-Dec-2028,3 years 325 days,106.36,4.209
+TG29,0 1/2% Treasury Gilt 2029,0.5%,31-Jan-2029,4 years 15 days,86.22,4.247
+TS29,4 1/8% Treasury Gilt 2029,4.125%,22-Jul-2029,4 years 187 days,98.91,4.394
+TR29,0 7/8% Treasury Gilt 2029,0.875%,22-Oct-2029,4 years 279 days,85.69,4.222
+TG30,0 3/8% Treasury Gilt 2030,0.375%,22-Oct-2030,5 years 279 days,80.18,4.293
+TR30,4 3/4% Treasury Gilt 2030,4.75%,07-Dec-2030,5 years 325 days,101.97,4.366
+TG31,0 1/4% Treasury Gilt 2031,0.25%,31-Jul-2031,6 years 196 days,76.91,4.343
+T31,4% Treasury Gilt 2031,4%,22-Oct-2031,6 years 279 days,97.14,4.494
+TG32,1% Treasury Gilt 2032,1%,31-Jan-2032,7 years 15 days,79.33,4.452
+TR32,4 1/4% Treasury Stock 2032,4.25%,07-Jun-2032,7 years 143 days,98.69,4.459
+TR33,3 1/4% Treasury Gilt 2033,3.25%,31-Jan-2033,8 years 16 days,91.11,4.584
+TG33,0 7/8% Green Gilt 2033,0.875%,31-Jul-2033,8 years 197 days,74.08,4.575
+T34,4 5/8% Treasury Gilt 2034,4.625%,31-Jan-2034,9 years 16 days,99.75,4.659
+TS34,4 1/4% Treasury Gilt 2034,4.25%,31-Jul-2034,9 years 197 days,96.78,4.672
+TR34,4 1/2% Treasury Gilt 2034,4.5%,07-Sep-2034,9 years 235 days,98.8,4.655
+TG35,0 5/8% Treasury Gilt 2035,0.625%,31-Jul-2035,10 years 197 days,66.51,4.688
+T4Q,4 1/4% Treasury Stock 2036,4.25%,07-Mar-2036,11 years 52 days,95.47,4.779
+TG37,1 3/4% Treasury Gilt 2037,1.75%,07-Sep-2037,12 years 236 days,71.1,4.832
+TG38,3 3/4% Treasury Gilt 2038,3.75%,29-Jan-2038,13 years 15 days,89.2,4.879
+TR38,4 3/4% Treasury Stock 2038,4.75%,07-Dec-2038,13 years 327 days,98.23,4.927
+TR39,1 1/8% Treasury Gilt 2039,1.125%,31-Jan-2039,14 years 17 days,62.1,4.887
+T39,4 1/4% Treasury Gilt 2039,4.25%,07-Sep-2039,14 years 236 days,92.43,4.984
+TG40,4 3/8% Treasury Gilt 2040,4.375%,31-Jan-2040,15 years 17 days,93.32,5.012
+T40,4 1/4% Treasury Gilt 2040,4.25%,07-Dec-2040,15 years 328 days,91.49,5.034
+TG41,1 1/4% Treasury Gilt 2041,1.25%,22-Oct-2041,16 years 282 days,57.97,4.976
+T42,4 1/2% Treasury Gilt 2042,4.5%,07-Dec-2042,17 years 328 days,92.99,5.102
+TR43,4 3/4% Treasury Gilt 2043,4.75%,22-Oct-2043,18 years 282 days,95.26,5.146
+TG44,3 1/4% Treasury Gilt 2044,3.25%,22-Jan-2044,19 years 9 days,77.09,5.154
+T45,3 1/2% Treasury Gilt 2045,3.5%,22-Jan-2045,20 years 10 days,79.35,5.168
+TG46,0 7/8% Treasury Gilt 2046,0.875%,31-Jan-2046,21 years 19 days,45.98,5.086
+T46,4 1/4% Treasury Gilt 2046,4.25%,07-Dec-2046,21 years 329 days,87.76,5.192
+TG47,1 1/2% Treasury Gilt 2047,1.5%,22-Jul-2047,22 years 191 days,52.04,5.109
+TG49,1 3/4% Treasury Gilt 2049,1.75%,22-Jan-2049,24 years 11 days,53.77,5.115
+T49,4 1/4% Treasury Gilt 2049,4.25%,07-Dec-2049,24 years 330 days,86.72,5.208
+TG50,0 5/8% Treasury Gilt 2050,0.625%,22-Oct-2050,25 years 284 days,37.09,4.99
+T51A,1 1/4% Treasury Gilt 2051,1.25%,31-Jul-2051,26 years 201 days,44.13,5.125
+T52,3 3/4% Treasury Gilt 2052,3.75%,22-Jul-2052,27 years 193 days,78.73,5.214
+TG53,1 1/2% Green Gilt 2053,1.5%,31-Jul-2053,28 years 202 days,45.87,5.134
+T53,3 3/4% Treasury Gilt 2053,3.75%,22-Oct-2053,28 years 285 days,78.18,5.224
+T54,4 3/8% Treasury Gilt 2054,4.375%,31-Jul-2054,29 years 202 days,87.2,5.231
+TR54,1 5/8% Treasury Gilt 2054,1.625%,22-Oct-2054,29 years 285 days,46.94,5.115
+TR4Q,4 1/4% Treasury Gilt 2055,4.25%,07-Dec-2055,30 years 331 days,85.43,5.203
+TG57,1 3/4% Treasury Gilt 2057,1.75%,22-Jul-2057,32 years 194 days,47.39,5.068
+TR60,4% Treasury Gilt 2060,4%,22-Jan-2060,35 years 13 days,81.47,5.147
+TG61,0 1/2% Treasury Gilt 2061,0.5%,22-Oct-2061,36 years 287 days,27.77,4.58
+TR63,4% Treasury Gilt 2063,4%,22-Oct-2063,38 years 287 days,80.79,5.149
+TG65,2 1/2% Treasury Gilt 2065,2.5%,22-Jul-2065,40 years 196 days,56.01,5.067
+TR68,3 1/2% Treasury Gilt 2068,3.5%,22-Jul-2068,43 years 197 days,72.37,5.082
+TG71,1 5/8% Treasury Gilt 2071,1.625%,22-Oct-2071,46 years 289 days,41.46,4.757
+TR73,1 1/8% Treasury Gilt 2073,1.125%,22-Oct-2073,48 years 290 days,33.74,4.48
